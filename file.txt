@@ -1,0 +1,19 @@
+Microservices using SpringBoot | Full Example - https://youtu.be/BnknNTN8icw
+Docker VS Kubernetes VS Docker Swarm  - https://youtu.be/wUKECUuME2A
+Kubernetes Health Checks with Readiness and Liveness Probes - https://youtu.be/x23TA2XSqRA
+Kubernetes Namespace explained in detail - https://youtu.be/bVM0UpA-mcM
+Kubernetes YAML Configuration | Deployment and Service - https://youtu.be/ZaEuQA0RqiA
+Kubernetes Commands with Example - kubectl - https://youtu.be/iyNnXWw7wE8
+Kubernetes Components you need to know in 10 minutes - https://youtu.be/ivDzqrCfC2Y
+What is Kubernetes | Explained in detail with Architecture - https://youtu.be/gOOH51SdHgM
+Create a Kubernetes Cluster in Local machine - https://youtu.be/x6jje4w3ZEs
+Docker Compose Tutorial with commands and Example - https://youtu.be/DRYYb3JeYNk
+How to Install Docker in Window 10 - https://youtu.be/B9Qi3yY2yW4
+Docker Tutorial - Most used Docker Commands With Examples | Docker Training | Daily Code Buffer - https://youtu.be/cRCxw314Ts0
+
+
+user service= 9001
+contact service= 9002
+eureka server= 8761
+api_gateway=9003
+histrix dashboard=9004
